@@ -7,7 +7,7 @@ import Image from "next/image";
 import Logo from "../public/logo/coca.png";
 import Logo2 from "../public/logo/logo2.jpg";
 //import LogoText from "../public/logo/coca.png";
-import LogoTransparent from "../public/logo/logo_transparent.png";
+import LogoTransparent from "../public/logo/logo2.jpg";
 import LogoIcon from "../public/logo/icon_logo.png";
 import styles from "../styles/headerfooter/navbar.module.css";
 
